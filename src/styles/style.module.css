@@ -1,0 +1,74 @@
+.list{
+    color:white;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-family: 'Roboto Slab Variable', sans-serif;
+    margin-left: 1.25rem;
+}
+
+.head{
+    color:white;
+    font-family: 'Roboto Slab Variable', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+.header{
+    font-size: 1.875rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    margin-left: 4rem;
+    position: absolute;
+    height: 70px;
+    color: #0B409c;
+    font-family: 'Roboto Slab Variable', sans-serif;
+}
+
+
+.contentText{
+    color: #0B409c;
+    font-size: 1.875rem;
+    font-weight: 700;
+    font-family: 'Roboto Slab Variable', sans-serif;
+}
+
+.button1{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-left: 80%;
+    margin-top: 1%;
+    color: #0B409c;
+    font-family: 'Roboto Slab Variable', sans-serif;
+    border: none;
+}
+.button2{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1%;
+    margin-top: 1%;
+    color: #0B409c;
+    font-family: 'Roboto Slab Variable', sans-serif;
+    border: none;
+}
+.button3{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1%;
+    margin-top: 1%;
+    color: #0B409c;
+    font-family: 'Roboto Slab Variable', sans-serif;
+}
+.content{
+    color: #0B409c;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-family: 'Roboto Slab Variable', sans-serif;
+    margin-top: 2rem;
+}
+.image{
+    position: relative;
+    margin-left: 25%;
+}
